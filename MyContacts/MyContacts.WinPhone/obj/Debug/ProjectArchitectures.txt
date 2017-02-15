@@ -1,0 +1,2 @@
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts.WinPhone\MyContacts.WinPhone.csproj;neutral
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\MyContacts.csproj;neutral

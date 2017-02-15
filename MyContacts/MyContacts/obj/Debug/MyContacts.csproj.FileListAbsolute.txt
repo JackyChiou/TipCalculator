@@ -1,0 +1,14 @@
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\MyContacts.dll
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Core.dll
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Core.xml
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.ContactDetails.xaml.g.cs
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.dll
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.dll.mdb
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\MyContacts.dll.mdb
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\obj\Debug\MyContacts.dll.mdb
+C:\Labs\Labs\XAM310 - Data Binding in Xamarin.Forms\Lab Materials\Part 03 Resources\Completed\MyContacts\MyContacts\bin\Debug\MyContacts.dll.mdb
